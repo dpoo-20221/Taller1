@@ -1,0 +1,12 @@
+id;1
+nombre;Santi
+direccion;Calle 20
+nitems;1
+combo;combo especial;27434.999999999996
+preciototal;32647.649999999994
+id;2
+nombre;Santi
+direccion;Calle 20
+nitems;1
+combo;combo corral;17550.0
+preciototal;20884.5

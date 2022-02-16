@@ -1,0 +1,13 @@
+package uniandes.dpoo.taller1.modelo;
+
+public interface Producto 
+{
+
+	public double getPrecio();
+	
+	public String getNombre();
+	
+	public String generarTextoFactura();
+	
+
+}
